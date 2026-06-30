@@ -4,9 +4,9 @@ import Button from '../common/Button';
 import Container from '../common/Container';
 import Badge from '../common/Badge';
 import BackgroundEffects from './BackgroundEffects';
-import appScreenHero from '../assets/app_screen_hero.png';
-import foodPlate from '../assets/food_plate.png';
-import quickInfo from '../assets/quick_info.png';
+import appScreenHero from '../assets/app_screen_hero.webp';
+import foodPlate from '../assets/food_plate.webp';
+import quickInfo from '../assets/quick_info.webp';
 
 const Hero = () => {
   // Fade-in-up variants for clean entrance

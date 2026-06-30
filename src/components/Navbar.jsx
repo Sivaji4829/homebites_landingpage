@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import logo from '../assets/logo.png';
+import logo from '../assets/logo.webp';
 
 const Navbar = () => {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -43,7 +43,7 @@ const Navbar = () => {
               src={logo}
               alt="HomeBites Logo"
               className={`transition-all duration-300 object-contain group-hover:scale-105 ${
-                isScrolled ? 'h-24 md:h-28' : 'h-36 md:h-44'
+                isScrolled ? 'h-12 md:h-28' : 'h-16 md:h-44'
               } w-auto`}
               onError={(e) => {
                 e.target.style.display = 'none';

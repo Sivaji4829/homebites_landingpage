@@ -35,11 +35,7 @@ const Features = () => {
       title: "Secure Payments",
       description: "Bank-grade encrypted checkouts supporting credit cards, net banking, UPI, and instant refund wallets."
     },
-    {
-      icon: <Award className="w-6 h-6 text-brand-secondary" />,
-      title: "Trusted Restaurants",
-      description: "We strictly audit and list only kitchens with 4.5+ star safety, culinary expertise, and hygiene ratings."
-    },
+
     {
       icon: <Droplet className="w-6 h-6 text-brand-secondary" />,
       title: "Fresh Ingredients",

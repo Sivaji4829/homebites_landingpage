@@ -2,10 +2,10 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import Container from '../common/Container';
 import SectionTitle from '../common/SectionTitle';
-import appScreen from '../assets/app_screen.png';
-import foodPlate from '../assets/food_plate.png';
-import deliveryBag from '../assets/delivery_bag.png';
-import cloche from '../assets/cloche.png';
+import appScreen from '../assets/app_screen.webp';
+import foodPlate from '../assets/food_plate.webp';
+import deliveryBag from '../assets/delivery_bag.webp';
+import cloche from '../assets/cloche.webp';
 
 const Showcase = () => {
   return (

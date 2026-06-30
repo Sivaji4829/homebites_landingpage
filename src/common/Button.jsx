@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import googlestore from '../assets/googlestore.png';
-import appstore from '../assets/appstore.png';
+import googlestore from '../assets/googlestore.webp';
+import appstore from '../assets/appstore.webp';
 
 const Button = ({ 
   children, 

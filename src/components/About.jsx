@@ -4,7 +4,7 @@ import Container from '../common/Container';
 import Card from '../common/Card';
 import SectionTitle from '../common/SectionTitle';
 import { Target, Eye, Sparkles } from 'lucide-react';
-import aboutBg from '../assets/about_bg.jpg';
+import aboutBg from '../assets/about_bg.webp';
 
 const About = () => {
   const cardsData = [
